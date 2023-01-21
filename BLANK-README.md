@@ -86,6 +86,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
+In this section, you can list what technologies/languages/libraries that you used. 
+
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
